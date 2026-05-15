@@ -1,5 +1,6 @@
 \# Multithreaded Pong Engine (Java)
 
+<img width="1476" height="811" alt="image" src="https://github.com/user-attachments/assets/70f9b02f-8564-4cd5-af96-6c041bd425c0" />
 
 
 A modular, object-oriented 2D Pong game built from scratch using Java Swing and AWT. This project focuses on clean architecture, decoupling game logic from rendering, and efficient event handling.
@@ -33,7 +34,6 @@ A modular, object-oriented 2D Pong game built from scratch using Java Swing and 
 \* \*\*Library:\*\* Swing / AWT (Graphics2D)
 
 \* \*\*Concurrency:\*\* Java Threads
-
 
 
 \## 📂 Project Structure
