@@ -21,9 +21,9 @@ A modular, object-oriented 2D Pong game built from scratch using Java Swing and 
 
 &#x20;   * `Score`: Manages UI-specific rendering for the game state.
 
-* **Event Handling:** Centralized input through `GameFrame` to solve focus-contention issues common in Swing components.
+&#x20; * **Event Handling:** Centralized input through `GameFrame` to solve focus-contention issues common in Swing components.
 
-* **Custom Collision Physics:** Developed a robust collision system that prevents "hitbox sticking" using forced coordinate offsets.
+&#x20; * **Custom Collision Physics:** Developed a robust collision system that prevents "hitbox sticking" using forced coordinate offsets.
 
 
 
