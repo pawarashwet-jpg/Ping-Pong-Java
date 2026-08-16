@@ -15,11 +15,11 @@ A modular, object-oriented 2D Pong game built from scratch using Java Swing and 
 
 * **Decoupled Architecture:** Separated concerns into specialized classes:
 
-* `CollisionManager`: Handles physics and scoring logic (Static utility).
+* **CollisionManager: Handles physics and scoring logic (Static utility).
 
-* `Pads` & `Ball`: Encapsulated game objects with their own update and draw methods.
+* **Pads & Ball: Encapsulated game objects with their own update and draw methods.
 
-* `Score`: Manages UI-specific rendering for the game state.
+* **Score: Manages UI-specific rendering for the game state.
 
 * **Event Handling:** Centralized input through `GameFrame` to solve focus-contention issues common in Swing components.
 
