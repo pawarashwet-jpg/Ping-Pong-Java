@@ -7,7 +7,7 @@ A modular, object-oriented 2D Pong game built from scratch using Java Swing and 
 
 
 
-## 🚀 Technical Highlights
+## Technical Highlights
 
 
 
@@ -27,7 +27,7 @@ A modular, object-oriented 2D Pong game built from scratch using Java Swing and 
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Java 8+
 
@@ -36,7 +36,7 @@ A modular, object-oriented 2D Pong game built from scratch using Java Swing and 
 * **Concurrency:** Java Threads
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 
